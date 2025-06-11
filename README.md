@@ -1,6 +1,6 @@
 # Real-Time-ISL-Recognition-System-using-ISL-BE-Project
 
-Our dataset:- https://drive.google.com/drive/folders/1v3csyNcM7FyCsy6oaD9tLnYoPwD_57vi?usp=drive_link
+Our dataset:- https://drive.google.com/file/d/1M3D91SnDhbUB1ZXhOaNKREKhg1vrGa1Z/view?usp=sharing
 
 This is a Final Year BE Project in Machine Learning titled "Real Time Indian Sign Language Recognition using Convolutional Neural Network". We created our own dataset of 40,000 images for our project. Created a ISL prediciton and recognition system using a 4 layer CNN Model that I engineered myself. The dataset for all 26 letters A-Z was captured by me and my team and was preprocesses by us before being fed into the network. Here is our model specifics:- Our CNN consists fof 4 layers, 4 convolutional layers and 3 dense layers. the layers went from 32, 64, 128, 256 filters respectively. This model for us yielded the best results and accuracies for all letters. We made use of Adam Optimizer. Real time prediction was done using tkinter package.
 
